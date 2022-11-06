@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "Project"
+		},
+		{
+			"path": "Authentication-service"
 		}
 	]
 }
