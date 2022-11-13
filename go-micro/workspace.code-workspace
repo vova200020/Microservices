@@ -7,10 +7,10 @@
 			"path": "broker-service"
 		},
 		{
-			"path": "Project"
+			"path": "project"
 		},
 		{
-			"path": "Authentication-service"
+			"path": "authentication-service"
 		}
 	]
 }
